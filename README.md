@@ -11,9 +11,9 @@
 - [FangOff](https://github.com/TheCyberViking/FangOff)
 - [Python Numbers Station](https://github.com/TheCyberViking/NumbersStation)
 - [Insider Threat Bait Tool](https://github.com/TheCyberViking/Insider_Threat_Bait)
-- [NetSpammer](https://github.com/TheCyberViking/NetSpammer)
-- [CreditCardTool](https://github.com/TheCyberViking/CreditCardTool)
-- [VirusTotalCLI tool](https://github.com/TheCyberViking/VirusTotal_CLI)
+- [Net Spammer](https://github.com/TheCyberViking/NetSpammer)
+- [Credit Card Tool](https://github.com/TheCyberViking/CreditCardTool)
+- [VirusTotal CLI tool](https://github.com/TheCyberViking/VirusTotal_CLI)
 - [CVE-2020-5902 Scanner](https://github.com/TheCyberViking/CVE-2020-5902-Vuln-Checker)
 
 ## 📝 Blog: 
