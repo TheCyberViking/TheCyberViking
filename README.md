@@ -9,7 +9,7 @@
 
 ## 🤖 Projects:
 - [FangOff](https://github.com/TheCyberViking/FangOff)
-- [Counter-Terrorism-Yara-Rules](https://github.com/TheCyberViking/Counter-Terrorism-Yara-Rules)
+- [Python Numbers Station](https://github.com/TheCyberViking/NumbersStation)
 - [Insider Threat Bait Tool](https://github.com/TheCyberViking/Insider_Threat_Bait)
 - [NetSpammer](https://github.com/TheCyberViking/NetSpammer)
 - [CreditCardTool](https://github.com/TheCyberViking/CreditCardTool)
