@@ -2,9 +2,9 @@
 
 ## 👋 Intro:
 - 🔭 I am Intelligence and Security Researcher
-- 🌱 I track people, terror groups and APTs
+- 🕵️ Private Investigator
 - 👯 I currently work with some amazing groups providing actionable Intelligence
-- 🎙 I am a public speaker at multiple confrences and security events 
+- 🎙 I am a public speaker at multiple confrences and security events co-founder of conINT
 - ⚡ Fun fact: I am actually new to coding...
 
 ## 🤖 Projects:
