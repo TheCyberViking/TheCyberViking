@@ -3,9 +3,9 @@
 [100% Free Donation "Adfly Link Costs You Nothing But a Click"](http://fumacrom.com/4228472/github-free-donation)
 
 ## 👋 Intro:
-- 🔭 I am Intelligence and Security Researcher
-- 🕵️ Private Investigator
-- 👯 I currently work with some amazing groups providing actionable Intelligence
+- 🔭 Investigations and Security Researcher
+- 🕵️ Qualified Private Investigator
+- 👯 I currently work with some amazing groups
 - 🎙 I am a public speaker at multiple confrences and security events co-founder of conINT
 - ⚡ Fun fact: I am actually new to coding...
 
